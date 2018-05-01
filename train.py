@@ -1,5 +1,5 @@
 '''
-Script to train on the images proccessed by readImages.py
+Script to train on the images proccesed by readImages.py
 
 It will evaluate test accuracy after every negative epoch. This makes it a bit slower but is neccesary in order
 determine when overfitting starts to happen. Due to the large size of the epochs, it may even be helpfull to evaluate 
