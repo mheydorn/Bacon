@@ -13,5 +13,6 @@ Instructions:
 Progress / Further Work:
 1. I haven't done a lot with tweaking the architecture or hyperparameters (just learning rate and drop out rate in this case). There's probably a lot to be gained there
 2. It gets up to 80% accuracy without any data augmentation, drop out keep rate set to 0.5,  and a learning rate of 0.5e-4
+3. With random flipping across x,y, and both axis we're at 86%
   
 
